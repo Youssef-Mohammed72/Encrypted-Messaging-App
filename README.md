@@ -78,6 +78,11 @@ EncryptedMessagingApp/
 │-- README.md
 ```
 
+## 🟦 Run Online on Expo Snack
+
+You can also test the app directly on Expo's online compiler:
+[Run on Expo S](https://snack.expo.dev/@youssef_mohamed/encrypted-messaging-app?platform=android)[nack](https://snack.expo.dev/@youssef_mohamed/encrypted-messaging-app?platform=android)
+
 ## 📜 License
 This project is **MIT Licensed**. Feel free to use and modify it as needed.
 
