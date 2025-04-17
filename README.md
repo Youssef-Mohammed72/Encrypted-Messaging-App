@@ -26,10 +26,11 @@
 
 ## 📸 Screenshots
 
-| Screen             | Preview                                                         |
+| Screen                     | Preview                                                         |
 |----------------------------|-----------------------------------------------------------------|
 | **Splash Screen**          | ![Splash Screen](./assets/images/SplashScreen.png)              |
-| **Authentication Screen**  | ![Login Screen](./assets/images/AuthenticationScreen.png)       |
+| **Sign-Up Screen**         | ![SignUp Screen](./assets/images/SignUpScreen.png)              |
+| **Sign-In Screen**         | ![Login Screen](./assets/images/AuthenticationScreen.png)       |
 | **Chat List Screen**       | ![Chat List Screen](./assets/images/ChatListScreen.png)         |
 | **Chat Screen**            | ![Chat Screen](./assets/images/ChatScreen.png)                  |
 | **Call Screen**            | ![Call Screen](./assets/images/CallScreen.png)                  |
