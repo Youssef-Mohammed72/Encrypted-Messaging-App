@@ -64,17 +64,25 @@ EncryptedMessagingApp/
 │-- assets/
 │   ├── fonts/         // Custom fonts (Montserrat, Inter, Roboto)
 │   ├── images/        // Logos, icons, and screenshots
+│   ├── sounds/
 │   └── colors.js      // Color definitions for the project
+│   └── styles.js
 │-- components/
 │   └── CustomButton.js
+│   └── FormInput.js
+│-- utils/
+│   └── NotificationHandler.js
 │-- screens/
 │   ├── SplashScreen.js
 │   ├── AuthenticationScreen.js
+│   ├── SignUpScreen.js
 │   ├── ChatListScreen.js
 │   ├── ChatScreen.js
 │   ├── CallScreen.js
+│   ├── VideoCallScreen.js
 │   └── SettingsScreen.js
 │-- App.js             // Main navigation and app entry point
+│-- firebase.js
 │-- package.json
 │-- README.md
 ```
